@@ -1,0 +1,24 @@
+ .paragraph {
+	font-size: 50px;
+	line-height: 62px;
+	font-family: 'Noto Sans', sans-serif;
+	
+}
+/* unvisited link */
+	a:link {
+		color: black;
+	}	
+/* visiting link */
+	a:visited {
+		color: black;
+	}
+/* mous over link */
+	a:hover {
+		color: black;
+	}	
+	
+/* selected link */
+	a:active {
+		color: black;
+	}	
+
